@@ -5,11 +5,6 @@
   <a href="https://www.linkedin.com/in/christinajoice-s-5a219b178/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <!---
-  <a href="https://www.youtube.com/channel/UC5DdWq27SQ95QXGa1pS6uYw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>   
-  --->
   <a href="https://www.hackerrank.com/profile/christinallrejo1">
     <img src="https://img.shields.io/badge/hackerrank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank Badge"/>
   </a>
