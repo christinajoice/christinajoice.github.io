@@ -10,4 +10,4 @@ author:
   email: christinallrejoice@gmail.com
 
 # Theme settings
-theme: minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
