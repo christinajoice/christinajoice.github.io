@@ -12,66 +12,7 @@ author:
 # Theme settings
 theme: minimal-mistakes-jekyll
 
-# Build settings
-markdown: kramdown
-highlighter: rouge
 
-# Plugins (if needed)
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-
-# Navigation links
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about/"
-  - title: "Projects"
-    url: "/projects/"
-
-# Social links (example)
-social:
-  - title: "GitHub"
-    url: "https://github.com/yourusername"
-  - title: "LinkedIn"
-    url: "https://www.linkedin.com/in/yourusername/"
-  - title: "Twitter"
-    url: "https://twitter.com/yourusername"
-
-# Google Analytics (optional)
-google_analytics: UA-XXXXXXXXX-X
-
-# SEO and other meta tags
-seo:
-  type: "website"
-  twitter:
-    username: yourusername
-    card: "summary"
-
-# Other configurations
-paginate: 5
-paginate_path: "/page:num/"
-
-# Exclude files from the build
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-
-# Defaults for posts/pages
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "Your Name"
-      comments: true
-  - scope:
-      path: ""
-      type: "pages"
-    values:
       layout: "page"
       author: "Your Name"
 
