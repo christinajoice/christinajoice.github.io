@@ -80,3 +80,4 @@
 - **Snowflake for Beginners: Make your First Snowsight Dashboard:** [View Credential](https://www.coursera.org/account/accomplishments/certificate/QUZ3QQDUJ43J)
 - **Tools for Data Science:** [View Credential](https://www.coursera.org/account/accomplishments/certificate/G663B5GDXM2L)
 - **Data Science Orientation by IBM:** [View Credential](https://www.credly.com/earner/earned/badge/3fc5dcca-df47-4a2f-b7c4-d4c31062c8c1)
+
