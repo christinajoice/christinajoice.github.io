@@ -11,9 +11,3 @@ author:
 
 # Theme settings
 theme: minimal-mistakes-jekyll
-
-
-      layout: "page"
-      author: "Your Name"
-
-# Additional custom configurations (if needed)
